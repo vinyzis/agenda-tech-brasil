@@ -56,6 +56,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
 - 18: [GitHub: Open Source Friday Brasil, com Bruno Rocha, mantenedor do Marmite](https://www.meetup.com/gittogether-brasil/events/307113298) ![online]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
+- 23: [FIAP Meetup #147: Revolução com IA Generativa: Experiências do Santander e iFood ](https://www.meetup.com/fiapmeetups/events/307195150/?eventOrigin=group_events_list) ![presencial]
 - 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
 - 24: [Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)](https://www.meetup.com/golangbr/events/306916672) - _São Paulo/SP_ ![presencial]
 - 24: [FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia](https://www.meetup.com/fiapmeetups/events/307085823) - _São Paulo/SP_ ![presencial]
